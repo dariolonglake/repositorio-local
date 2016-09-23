@@ -5,6 +5,8 @@
     <title>Prueba</title>
 </head>
 <body>
-   Prueba    
+   <div>
+       Prueba modificada.
+   </div>
 </body>
 </html>
